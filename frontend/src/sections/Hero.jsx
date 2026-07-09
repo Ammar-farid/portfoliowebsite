@@ -130,7 +130,6 @@ const Hero = () => {
       >
         <a href="/AMMAR_Farid.pdf" download className="btn btn-primary">Download CV</a>
         <a href="#projects" className="btn btn-outline">View Projects</a>
-        <a href="#contact" className="btn btn-outline">Contact</a>
       </motion.div>
 
     </section>

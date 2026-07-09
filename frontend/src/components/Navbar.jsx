@@ -34,7 +34,7 @@ const Navbar = () => {
     }
   };
 
-  const navLinks = ['Home', 'About', 'Services', 'Projects', 'Contact'];
+  const navLinks = ['Home', 'About', 'Services', 'Projects'];
 
   return (
     <motion.nav
