@@ -1,9 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-import imgWeatherApp from '../assets/weather_app_mockup.png';
-import imgAiChatbot from '../assets/ai_chatbot_mockup.png';
-import imgMusicRec from '../assets/music_recommendation_mockup.png';
+import imgWeatherApp from '../assets/istockphoto-2160311043-612x612.jpg';
+import imgAiChatbot from '../assets/images.jpg';
+import imgMusicRec from '../assets/music-notes-and-a-wave-of-fabric-photo.jpg';
 
 const Projects = () => {
   const projects = [
