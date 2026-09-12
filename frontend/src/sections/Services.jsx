@@ -10,6 +10,7 @@ const Services = () => {
       details: {
         label: 'Languages & Frameworks',
         items: [
+          'Next.js Framework',
           'HTML5 & Modern CSS3 Styling',
           'Semantic JavaScript (ES6+)',
           'React.js Component Architecture',
@@ -35,8 +36,9 @@ const Services = () => {
       icon: <FaBrain />,
       title: 'AI / ML',
       details: {
-        label: 'Python Ecosystem',
+        label: 'Python & AI Ecosystem',
         items: [
+          'FastAPI Framework',
           'Python Scripting & Automation',
           'NumPy & Pandas Analytics',
           'Scikit-Learn & ML Models',
@@ -49,8 +51,11 @@ const Services = () => {
       icon: <FaTools />,
       title: 'Tools & Utilities',
       details: {
-        label: 'Developer Utilities',
+        label: 'Developer Utilities & DevOps',
         items: [
+          'Docker',
+          'System Design',
+          'CI/CD Pipelines',
           'Git & GitHub Version Control',
           'Postman API Testing Suites',
           'VS Code Configuration',
